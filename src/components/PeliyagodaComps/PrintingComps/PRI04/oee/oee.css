@@ -1,0 +1,41 @@
+.oee_container{
+    height: 340px;
+    width: 350px;
+    border-radius: 10px; 
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    background-color: #D9D9D9;
+    margin: 0 0 0 10px;
+}
+
+.oee{
+    flex: 2;
+    height: 140px;
+    width: 300px;
+    padding:5px 30px ;
+    
+    
+}
+
+.overall_gauge_chart{
+    background-color: #F2F2F2;
+    border-radius: 10px;
+    height: 140px;
+    width: 300px;
+}
+
+.oee_title{
+    
+    margin-left: 130px;
+    font-size: 18px;
+   
+}
+
+.gauge_chart_container{
+    display:flex;
+}
+
+.oeechart{
+    padding-right: 10px;
+    margin-top: 45px;
+}

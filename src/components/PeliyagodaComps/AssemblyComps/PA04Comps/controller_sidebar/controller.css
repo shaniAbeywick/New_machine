@@ -1,0 +1,72 @@
+.machine_controller{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+   
+    
+  }
+
+.cotroller {
+    flex: 1;
+    margin: 0px 10px;
+    padding: 30px 20px; 
+    border-radius: 10px;
+    cursor: pointer;
+    background-color:#F2F2F2  ;
+    
+  }
+
+.main_div{
+    display: flex;
+    margin-left:0px;
+   
+}
+
+.Title{
+    font-size: 20px;
+    margin-right:5px;
+    margin-top: 16px;
+    
+}
+
+
+.btnRotate{
+    transform:rotateX(180deg);
+}
+h3{
+
+ text-align: center;
+ font-weight: normal;
+
+}
+#display{
+    color: rgb(0, 0, 0);
+    font-weight: normal;
+    margin-top: 5px;
+}
+
+.center_div{
+    
+    width:64px;
+    height:40px;
+    background-color:#D9D9D9;
+    box-shadow: 5px 4px 24px -6px rgba(0,0,0,0.49);
+    border-radius: 5px;
+    margin-top: 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn_div{
+    display: flex;
+}
+.alert_controller{
+    display: flex;
+    margin-top: 390px;
+    margin-left: 9px;
+  }
+.btn{
+    display: flex;
+    margin-top: 12px;
+} 
+ 

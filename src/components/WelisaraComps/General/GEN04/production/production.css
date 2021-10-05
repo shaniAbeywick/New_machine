@@ -1,0 +1,31 @@
+.production{
+    flex:1;
+    height: 370px;
+    width: 710px;
+    margin:  10px;
+    padding: 0px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    background-color: #D9D9D9;
+    border-radius: 10px;
+}
+.production_title{
+    font-size: 18px;
+    margin-left: 10px;
+    padding-top: 30px;
+    
+    
+}
+.productionWidget{
+  display: flex;
+  
+}
+.productionCol{
+  width:50%;
+  
+}
+.productionRow{
+  width:50%;
+  
+  
+}

@@ -1,0 +1,8 @@
+
+  .oee_main{
+    display: flex;
+  
+    height: calc(100vh - 50px);
+    width:100%;
+    background-color: #ffffff;
+}

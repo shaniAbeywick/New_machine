@@ -1,0 +1,11 @@
+.home{
+    flex: 4;
+    height: 710px;
+    width: 720px;
+    background-color: #ffffff;
+}
+.homeWidget{
+    display: flex;
+    width: 720px;
+    height: 350px;
+}
